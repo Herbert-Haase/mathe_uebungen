@@ -1,1 +1,1 @@
-MATLAB Laborübungen 2. Semester
+Octave Laborübungen 2. Semester
